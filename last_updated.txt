@@ -1,4 +1,4 @@
-2026-08-14T11:32:28.828316+00:00
+2026-08-15T09:53:22.033878+00:00
 vehicles_in_feed: 18
 skipped: https://villagemotorsautos.com/vdp/24183278/Used-2010-Chevrolet-Equinox-LT1-FWD-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
 skipped: https://villagemotorsautos.com/vdp/24188762/Used-2004-Ford-Taurus-SE-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
