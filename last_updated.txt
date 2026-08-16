@@ -1,6 +1,6 @@
-2026-08-15T09:53:22.033878+00:00
-vehicles_in_feed: 18
+2026-08-16T09:54:45.871384+00:00
+vehicles_in_feed: 17
 skipped: https://villagemotorsautos.com/vdp/24183278/Used-2010-Chevrolet-Equinox-LT1-FWD-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
 skipped: https://villagemotorsautos.com/vdp/24188762/Used-2004-Ford-Taurus-SE-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
-skipped: https://villagemotorsautos.com/vdp/24191754/Used-2013-Honda-Civic-Hybrid-CVT-ATPZEV-with-Navigation-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
+skipped: https://villagemotorsautos.com/vdp/24200732/Used-2016-GMC-Terrain-SLE2-AWD-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
 skipped: https://villagemotorsautos.com/vdp/24188755/Used-2010-Toyota-Tundra-TundraGrade-57L-FFV-Double-Cab-Long-Bed-4WD-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
