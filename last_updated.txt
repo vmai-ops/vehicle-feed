@@ -1,9 +1,4 @@
-2026-08-19T10:03:49.278475+00:00
-vehicles_in_feed: 17
+2026-08-19T19:59:10.782666+00:00
+vehicles_in_feed: 22
 skipped: https://villagemotorsautos.com/vdp/24207501/Used-2008-Buick-Enclave-CXL-AWD-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
-skipped: https://villagemotorsautos.com/vdp/24183278/Used-2010-Chevrolet-Equinox-LT1-FWD-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
-skipped: https://villagemotorsautos.com/vdp/24206597/Used-2011-Chevrolet-Equinox-2LT-AWD-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
-skipped: https://villagemotorsautos.com/vdp/24207665/Used-2011-Chevrolet-Equinox-LTZ-AWD-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
-skipped: https://villagemotorsautos.com/vdp/24188762/Used-2004-Ford-Taurus-SE-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
-skipped: https://villagemotorsautos.com/vdp/24207505/Used-2002-Lexus-ES-300-Sedan-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
-skipped: https://villagemotorsautos.com/vdp/24188755/Used-2010-Toyota-Tundra-TundraGrade-57L-FFV-Double-Cab-Long-Bed-4WD-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
+skipped: https://villagemotorsautos.com/vdp/23783089/Used-2012-GMC-Terrain-SLE1-FWD-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
