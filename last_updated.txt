@@ -1,4 +1,4 @@
-2026-08-19T19:59:10.782666+00:00
+2026-08-20T10:14:49.692794+00:00
 vehicles_in_feed: 22
 skipped: https://villagemotorsautos.com/vdp/24207501/Used-2008-Buick-Enclave-CXL-AWD-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
 skipped: https://villagemotorsautos.com/vdp/23783089/Used-2012-GMC-Terrain-SLE1-FWD-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
