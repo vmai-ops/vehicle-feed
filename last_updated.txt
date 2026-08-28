@@ -1,3 +1,2 @@
-2026-08-26T10:55:15.842535+00:00
-vehicles_in_feed: 20
-skipped: https://villagemotorsautos.com/vdp/23783089/Used-2012-GMC-Terrain-SLE1-FWD-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
+2026-08-28T21:48:38.292549+00:00
+vehicles_in_feed: 18
