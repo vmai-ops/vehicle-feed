@@ -1,5 +1,5 @@
-2026-09-02T09:13:38.071403+00:00
-vehicles_in_feed: 16
+2026-09-03T09:14:13.066076+00:00
+vehicles_in_feed: 17
 skipped: https://villagemotorsautos.com/vdp/24253273/Used-2006-BMW-3Series-325i-Sedan-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
 skipped: https://villagemotorsautos.com/vdp/24245051/Used-2006-Ford-Fusion-SE-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
 skipped: https://villagemotorsautos.com/vdp/24188762/Used-2004-Ford-Taurus-SE-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
