@@ -1,3 +1,2 @@
-2026-09-24T14:05:54.139190+00:00
-vehicles_in_feed: 18
-skipped: https://villagemotorsautos.com/vdp/24330606/Used-2013-Volkswagen-Passat-25L-SE-AT-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
+2026-09-25T14:28:54.982287+00:00
+vehicles_in_feed: 19
