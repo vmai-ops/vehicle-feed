@@ -1,2 +1,6 @@
-2026-09-25T14:28:54.982287+00:00
+2026-09-26T13:39:49.512619+00:00
 vehicles_in_feed: 19
+skipped: https://villagemotorsautos.com/vdp/24339821/Used-2014-Chevrolet-Cruze-1LT-Auto-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
+skipped: https://villagemotorsautos.com/vdp/24339850/Used-2015-Dodge-Dart-SXT-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
+skipped: https://villagemotorsautos.com/vdp/24339809/Used-2010-Ford-Fusion-SE-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
+skipped: https://villagemotorsautos.com/vdp/24339837/Used-2011-Nissan-Sentra-20-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
