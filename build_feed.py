@@ -35,6 +35,7 @@ POSTAL = "45065"
 COUNTRY = "US"
 LATITUDE = "39.3735708"
 LONGITUDE = "-84.216369"
+COLLECTIBLE_MIN_PRICE = 20000  # vehicles priced >= this are tagged "collectible"
 
 HEADERS = {
     "User-Agent": (
@@ -215,12 +216,24 @@ def parse_vdp(vid, url):
     elif "2WD" in drive_raw or "4X2" in drive_raw:
         drivetrain = "4X2"
 
-    description = (
-        f"Used {year} {make} {model} with {int(mileage):,} miles. "
-        f"Stock #{stock}. Buy Here Pay Here financing available at "
-        f"{DEALER_NAME} in {CITY}, {REGION} — no credit check, no interest, "
-        f"no dealer fees. Call 283-203-8763 or visit us at {ADDR1}."
-    )
+    # Collectibles (>= $20k) get a collector-focused description WITHOUT the
+    # Buy-Here-Pay-Here financing language, which is wrong for a cash-buyer
+    # classic and keeps a non-financing ad clear of the Credit ad category.
+    is_collectible = float(price_num) >= COLLECTIBLE_MIN_PRICE
+    if is_collectible:
+        description = (
+            f"Rare & collectible {year} {make} {model} with {int(mileage):,} miles. "
+            f"A hard-to-find classic, available now at {DEALER_NAME} in "
+            f"{CITY}, {REGION}. Serious collector inquiries welcome from anywhere. "
+            f"Call 283-203-8763 or visit us at {ADDR1}."
+        )
+    else:
+        description = (
+            f"Used {year} {make} {model} with {int(mileage):,} miles. "
+            f"Stock #{stock}. Buy Here Pay Here financing available at "
+            f"{DEALER_NAME} in {CITY}, {REGION} — no credit check, no interest, "
+            f"no dealer fees. Call 283-203-8763 or visit us at {ADDR1}."
+        )
 
     row = {
         "vehicle_id": vid,          # VDP/URL id — MUST match the pixel's product_id
@@ -243,6 +256,7 @@ def parse_vdp(vid, url):
         "transmission": transmission,
         "drivetrain": drivetrain,
         "fuel_type": "gasoline",
+        "custom_label_0": "collectible" if is_collectible else "budget",
         "dealer_name": DEALER_NAME,
         "address": (
             '{"addr1":"%s","city":"%s","region":"%s","postal_code":"%s","country":"%s"}'
@@ -282,8 +296,8 @@ def main():
         "vehicle_id", "stock_number", "title", "description", "url", "make", "model", "year",
         "mileage.value", "mileage.unit", "vin", "price", "state_of_vehicle",
         "condition", "availability", "exterior_color", "body_style",
-        "transmission", "drivetrain", "fuel_type", "dealer_name", "address",
-        "latitude", "longitude",
+        "transmission", "drivetrain", "fuel_type", "custom_label_0",
+        "dealer_name", "address", "latitude", "longitude",
     ]
     img_cols = [f"image[{i}].url" for i in range(max_imgs)]
 
