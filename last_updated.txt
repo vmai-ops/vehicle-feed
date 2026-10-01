@@ -1,3 +1,4 @@
-2026-09-30T15:44:36.608820+00:00
+2026-10-01T16:06:50.057669+00:00
 vehicles_in_feed: 20
+skipped: https://villagemotorsautos.com/vdp/24358263/Used-2013-Chevrolet-Cruze-1LT-Auto-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
 skipped: https://villagemotorsautos.com/vdp/24339809/Used-2010-Ford-Fusion-SE-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
