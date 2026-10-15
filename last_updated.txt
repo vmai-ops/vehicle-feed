@@ -1,3 +1,2 @@
-2026-10-14T14:23:49.771765+00:00
+2026-10-15T14:01:55.588009+00:00
 vehicles_in_feed: 24
-skipped: https://villagemotorsautos.com/vdp/24399683/Used-2014-BMW-3Series-328i-xDrive-Sedan-SULEV-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
