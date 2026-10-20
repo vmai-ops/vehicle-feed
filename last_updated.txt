@@ -1,3 +1,2 @@
-2026-10-19T16:17:31.304029+00:00
+2026-10-20T14:10:33.569835+00:00
 vehicles_in_feed: 21
-skipped: https://villagemotorsautos.com/vdp/24404198/Used-2014-Chevrolet-Cruze-LS-Auto-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
