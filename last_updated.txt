@@ -1,3 +1,2 @@
-2026-10-27T15:11:56.654852+00:00
-vehicles_in_feed: 19
-skipped: https://villagemotorsautos.com/vdp/24440906/Used-2006-BMW-3Series-325i-Sedan-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
+2026-10-28T15:47:32.558774+00:00
+vehicles_in_feed: 17
