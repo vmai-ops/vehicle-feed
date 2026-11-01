@@ -1,4 +1,5 @@
-2026-10-31T15:10:16.180134+00:00
-vehicles_in_feed: 16
+2026-11-01T15:52:21.053829+00:00
+vehicles_in_feed: 14
 skipped: https://villagemotorsautos.com/vdp/24453995/Used-2000-Buick-Park-Avenue-Ultra-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
+skipped: https://villagemotorsautos.com/vdp/24458440/Used-2006-Chevrolet-Impala-LS-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
 skipped: https://villagemotorsautos.com/vdp/24454003/Used-2010-Ford-Fusion-SE-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
