@@ -1,3 +1,4 @@
-2026-11-10T16:51:41.484992+00:00
+2026-11-11T16:57:32.292263+00:00
 vehicles_in_feed: 12
 skipped: https://villagemotorsautos.com/vdp/24404198/Used-2014-Chevrolet-Cruze-LS-Auto-for-sale-in-South-Lebanon-OH-45065 (no photos on the listing)
+skipped: https://villagemotorsautos.com/vdp/24489358/Used-2003-Ford-Mustang-Standard-Coupe-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
