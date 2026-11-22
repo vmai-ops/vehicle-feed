@@ -1,4 +1,4 @@
-2026-11-21T16:39:31.167635+00:00
+2026-11-22T16:57:07.900810+00:00
 vehicles_in_feed: 13
 skipped: https://villagemotorsautos.com/vdp/24440906/Used-2006-BMW-3Series-325i-Sedan-for-sale-in-South-Lebanon-OH-45065 (no photos on the listing)
 skipped: https://villagemotorsautos.com/vdp/24501502/Used-2013-Chevrolet-Cruze-1LT-Auto-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
