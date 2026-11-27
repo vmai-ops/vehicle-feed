@@ -1,4 +1,4 @@
-2026-11-26T18:52:50.862437+00:00
+2026-11-27T18:44:28.851670+00:00
 vehicles_in_feed: 15
 skipped: https://villagemotorsautos.com/vdp/24440906/Used-2006-BMW-3Series-325i-Sedan-for-sale-in-South-Lebanon-OH-45065 (no photos on the listing)
 skipped: https://villagemotorsautos.com/vdp/24534386/Used-2009-Nissan-Titan-XE-King-Cab-4WD-SWB-for-sale-in-South-Lebanon-OH-45065 (no Retail Price listed (Get ePrice vehicle))
